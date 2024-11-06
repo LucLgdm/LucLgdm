@@ -5,3 +5,4 @@
 🖥 I now want to come back in the professional world as a software developer which I used to be during my internships.  
 🤔 I'm sharing here my schools and personals projects in order to relearn the art of programming.  
 My programming language is C++. Some of my work is in french but th most part is in english.  
+Yet I'm currently working at 42 school in Paris, I integrated in November 2024.
