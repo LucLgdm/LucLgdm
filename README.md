@@ -3,7 +3,16 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luc-le-grand-de-mercey-62271b157/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucdemercey@gmail.com) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/luc-le-grand-de-mercey-62271b157/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lucdemercey@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+
 
 # 🛠️ Languages and tools:
 <p align="center">
@@ -21,8 +30,13 @@
   <img src = https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white />
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoGitHub&layout=compact)
+#
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LucLgdm&layout=compact&langs_count=6&theme=dark" alt="Langages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucLgdm&show_icons=true&theme=dark" alt="Stats"/>
+</p>
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LucLgdm&icon=0&color=0)](https://visitcount.itsvg.in)
