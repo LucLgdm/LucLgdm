@@ -21,6 +21,7 @@
 </p>
 <p align="center">
   <img src = https://img.shields.io/badge/OpenGL-%235586A4.svg?style=for-the-badge&logo=opengl&logoColor=white />
+  <img src= https://img.shields.io/badge/OpenCL-%235586A4.svg?style=for-the-badge&logo=opencl&logoColor=white />
   <img src = https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white />
   <img src = https://img.shields.io/badge/OpenMPI-%230073AA.svg?style=for-the-badge&logo=parallel-computing&logoColor=white />
   <img src = https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=auto />
